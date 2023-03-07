@@ -41,7 +41,7 @@ type GfToken struct {
 
 // TokenData Token 数据
 type TokenData struct {
-	JwtToken string `json:"jwtToke"`
+	JwtToken string `json:"jwtToken"`
 	UuId     string `json:"uuId"`
 }
 
